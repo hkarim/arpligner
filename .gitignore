@@ -1,3 +1,5 @@
 pluginval*
 Builds/
 *.orig
+cmake-build*
+
